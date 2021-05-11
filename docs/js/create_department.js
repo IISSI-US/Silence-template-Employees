@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 import { departmentsAPI } from '/js/api/departments.js';
 import { departmentsValidator } from '/js/validators/departments.js';

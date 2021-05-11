@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 import { parseHTML } from '../utils/parseHTML.js';
 import { departmentsAPI } from '../api/departments.js';
